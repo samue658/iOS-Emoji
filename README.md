@@ -6,6 +6,8 @@
 ## About:
 It replaces your default emoji font with the iOS emojis! (ROOT)
 
+## Screenshots:
+
 ## Installation: 
 1. Open Magisk and go to the modules page.
 2. Click on install from storage and select the downloaded zip file.
