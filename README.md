@@ -1,5 +1,3 @@
-## iOS Emoji 17.4
-
 <p align="center">  <img src="https://github.com/popeye0013/iOS-Emoji/raw/main/Resources/iOS-EMOJI.png">
 </p>
 
